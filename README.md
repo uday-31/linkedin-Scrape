@@ -2,8 +2,8 @@
 Scrape data from LinkedIn profiles
 
 This code does two things: 
--Capture all the data from a LinkedIn profile and save it in a CSV file
--Capture the profile suggestions for each profile, and scrape them as well
+- Capture all the data from a LinkedIn profile and save it in a CSV file
+- Capture the profile suggestions for each profile, and scrape them as well
 
 # Requirements
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) browser

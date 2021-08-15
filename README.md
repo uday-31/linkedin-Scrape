@@ -1,4 +1,4 @@
-# linkedin-Scrape
+# linkedin-scraper
 Scrape data from LinkedIn profiles
 
 This code does two things: 
